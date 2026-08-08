@@ -10,12 +10,38 @@
 
 ## Table of Contents
 
-1. [Route Overview](#route-overview)
-2. [Day 1 — Friday (Sydney → Kiama)](#day-1--friday)
-3. [Day 2 — Saturday (Kiama → Jervis Bay → Sydney)](#day-2--saturday)
-4. [Accommodation — Kiama overnight](#accommodation)
-5. [Master Stop List — All Places with Priority Ratings](#master-stop-list--all-places-with-priority-ratings)
-6. [Practical Notes](#practical-notes)
+1. [Table of Contents](#table-of-contents)
+2. [Route Overview](#route-overview)
+3. [Day 1 — Friday](#day-1-friday)
+   1. [Otford Lookout](#otford-lookout)
+   2. [Helensburgh Glow Worm Tunnel _(optional, ~20 min)_](#helensburgh-glow-worm-tunnel-optional-20-min)
+   3. [Bald Hill Lookout (Stanwell Tops)](#bald-hill-lookout-stanwell-tops)
+   4. [Sea Cliff Bridge (Clifton / Coalcliff)](#sea-cliff-bridge-clifton-coalcliff)
+   5. [Thirroul Beach](#thirroul-beach)
+   6. [Minnamurra River Mouth & Mystics Beach](#minnamurra-river-mouth-mystics-beach)
+   7. [Kiama Blowhole & Lighthouse](#kiama-blowhole-lighthouse)
+   8. [Black Beach & Kiama Harbour](#black-beach-kiama-harbour)
+   9. [Cathedral Rocks at Jones Beach](#cathedral-rocks-at-jones-beach)
+   10. [Bombo Quarry (sunset shoot)](#bombo-quarry-sunset-shoot)
+   11. [Evening — Kiama town](#evening-kiama-town)
+4. [Day 2 — Saturday](#day-2-saturday)
+   1. [Werri Beach & Gerringong](#werri-beach-gerringong)
+   2. [Seven Mile Beach (Gerroa)](#seven-mile-beach-gerroa)
+   3. [Callala Beach (Jervis Bay)](#callala-beach-jervis-bay)
+   4. [Huskisson (lunch break)](#huskisson-lunch-break)
+   5. [Hyams Beach (Jervis Bay)](#hyams-beach-jervis-bay)
+   6. [Booderee National Park (Cave Beach, Murrays Beach & Green Patch)](#booderee-national-park-cave-beach-murrays-beach-green-patch)
+   7. [Point Perpendicular Lighthouse](#point-perpendicular-lighthouse)
+   8. [Honeymoon Bay](#honeymoon-bay)
+   9. [Return drive — Jervis Bay → Strathfield (~3 hrs)](#return-drive-jervis-bay-strathfield-3-hrs)
+5. [Accommodation — Final Verdict (verified 8 Aug 2026)](#accommodation-final-verdict-verified-8-aug-2026)
+6. [Master Stop List — All Places with Priority Ratings](#master-stop-list-all-places-with-priority-ratings)
+   1. [Priority summary](#priority-summary)
+7. [Practical Notes](#practical-notes)
+8. [References & Further Reading](#references-further-reading)
+   1. [Official / Practical](#official-practical)
+   2. [Photography Blogs & Guides](#photography-blogs-guides)
+   3. [Image Sources](#image-sources)
 
 ---
 
@@ -343,18 +369,34 @@ Take the Princes Highway (A1) north via Nowra and then up the Hume Motorway (M31
 
 ---
 
-## Accommodation
+## Accommodation — Final Verdict (verified 8 Aug 2026)
 
-_Overnight: Kiama or nearby (Friday night only). Book ahead — weekends fill up fast in the South Coast._
+*All five candidates reviewed against your priorities: **cleanliness, safety, private bathroom, accessibility, location** — WiFi + free parking required. Prices in USD, 1 night / 2 adults, excl. 10% VAT. Your overnight is in **Kiama**, so Jervis Bay hotels are out of range.*
 
-Look for accommodation with **private bathroom, free parking, and WiFi** near Kiama town centre. Shortlist to check on Booking.com:
+| | **Kiama Shores** | **Kiama Motel 617** | **Dolphin Shores** | **Huskisson Bayside** | **Nelson's Oasis** |
+|---|---|---|---|---|---|
+| **Location** | Kiama — Collins St | Kiama — Manning St | Vincentia (40 min south) | Huskisson (40 min south) | Vincentia (40 min south) |
+| **Score / reviews** | **8.7 / 2,281** | 8.1 / 1,939 | 8.8 / 817 | 8.0 / 1,462 | 8.9 / 33 ⚠️ |
+| **Couples** | **9.6** | 8.6 | 8.9 | 9.3 | 9.5 |
+| **Cleanliness** | **9.2** | 8.7 | 9.2 | 8.4 | **9.5** ⚠️ |
+| **Comfort** | **9.3** | 8.6 | 9.3 | 8.4 | 9.0 |
+| **Value** | **8.6** | 8.3 | 8.7 | 8.1 | 8.3 |
+| **Location score** | **9.5** | 8.6 | 9.1 | 9.3 | 9.4 |
+| **WiFi** | 8.0 | 8.3 | **9.6** | 8.9 | 38 Mbps |
+| **Private bath** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Free parking** | ✅ On-site | ✅ On-site | ✅ On-site | ✅ On-site | ✅ On-site |
+| **Accessibility** | ✅ Disabled facilities | ⚠️ Stairs only | ✅ Disabled facilities | ✅ Disabled facilities | Ground floor studio |
+| **Room for us** | Deluxe King 1st Floor **$143** (355 sq ft, kitchenette, balcony, pool/garden view, recently renovated) | Queen Suite **$127** (215 sq ft) | Standard Double **$144** (280 sq ft) | Studio **$157** (431 sq ft, kitchenette) | 1-Bed House **$224** (172 sq ft, kitchenette, +$90 cleaning fee) |
+| **Extras** | Saltwater pool | Microwave, toaster | Plunge pool, spa options | Pool, beachfront, restaurant/bar | Private courtyard, beachfront, adults-only |
+| **Cancellation** | Free until Sep 3 | Free until Sep 2 | Free until Sep 1 | Free until Sep 2 | Free until Aug 21 ❌ |
+| **Verdict** | ✅ **Book this** | ⚡ Budget fallback | ❌ 40 min from Kiama | ❌ 40 min from Kiama | ❌ $224 + 33 reviews only |
 
-- **Nova Kiama** — modern rooms, walk to blowhole, free parking, couples-friendly
-- **Kiama Shores** — central, opposite the harbour, free parking
-- **Big4 Easts Beach Holiday Park** — cabins at Easts Beach, coastal bush setting, budget option
-- Airbnbs in Kiama Heights or Bombo — many clifftop cottages with ocean views
+**Book Kiama Shores — Deluxe King First Floor @ $143.** Best scores across all priority metrics that matter: cleanliness 9.2, comfort 9.3, location 9.5 (walking distance to harbour + blowhole, opposite the park), couples rating 9.6. Recently refurbished 355 sq ft room with private kitchenette, balcony overlooking pool and gardens, disabled-access facilities. Reviews: *"recently refurbished, great size, comfy bed... real hidden gem."*
 
-> Book something within walking distance of the blowhole/lighthouse for a quick twilight re-shoot before dinner.
+- **Budget fallback:** Motel 617 Queen Suite @ $127 — clean (8.7), central, but older and stairs-only to upper floors.
+- **Jervis Bay hotels (all dropped):** Dolphin Shores, Huskisson Bayside, and Nelson's Oasis are all 40+ min south of your Day 1 sunset at Bombo. Nelson's also has only 33 reviews (vs 2,281 for Kiama Shores) and costs $224 with a $90 cleaning fee — the worst value of the five.
+
+> **Tip:** Kiama Shores is a 3-min drive from the blowhole and a 5-min walk from Kiama Harbour — perfect for a quick post-sunset lighthouse re-shoot before dinner.
 
 ---
 
