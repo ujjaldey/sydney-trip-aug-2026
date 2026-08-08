@@ -12,8 +12,8 @@
 
 1. [Route Overview](#route-overview)
 2. [Day 1 — Friday (Sydney → Kiama)](#day-1--friday)
-3. [Accommodation — Kiama overnight](#accommodation)
-4. [Day 2 — Saturday (Kiama → Jervis Bay → Sydney)](#day-2--saturday)
+3. [Day 2 — Saturday (Kiama → Jervis Bay → Sydney)](#day-2--saturday)
+4. [Accommodation — Kiama overnight](#accommodation)
 5. [Hidden-Gem Beaches (no crowds)](#hidden-gem-beaches-no-crowds)
 6. [Photo Spots Quick Reference](#photo-spots-quick-reference)
 
@@ -48,20 +48,20 @@ Grand Pacific Drive is one of Australia's most scenic coastal routes — 140 km 
 
 > **Drive:** Strathfield → Royal National Park → Sea Cliff Bridge → Kiama (~2 hrs + stops)
 
-### Quick Stop 0 — [Otford Lookout](https://www.google.com/search?tbm=isch&q=Otford+Lookout+NSW)
+### [Otford Lookout](https://www.google.com/search?tbm=isch&q=Otford+Lookout+NSW)
 
 ![Otford Lookout](https://commons.wikimedia.org/wiki/Special:FilePath/Otford%20Lookout.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Otford+Lookout+NSW)
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Otford+Lookout+NSW)
 
 Before Bald Hill, a 30-second detour off Lawrence Hargrave Drive to this lesser-known elevated viewpoint — quieter than Bald Hill with a framed coastline view looking south toward Sea Cliff Bridge. Perfect warm-up shot.
 
 - **Access:** 1-min walk from the roadside pull-off. No facilities.
 - **Crowds:** Almost zero
 
-### Quick Stop 0.2 — [Helensburgh Glow Worm Tunnel](https://www.google.com/search?tbm=isch&q=Helensburgh+Glow+Worm+Tunnel) *(optional, ~20 min)*
+### [Helensburgh Glow Worm Tunnel](https://www.google.com/search?tbm=isch&q=Helensburgh+Glow+Worm+Tunnel) _(optional, ~20 min)_
 
-![Helensburgh Glow Worm Tunnel](https://commons.wikimedia.org/wiki/Special:FilePath/Helensburgh%20Glow%20Worm%20Tunnel.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Helensburgh+Glow+Worm+Tunnel)
+![Helensburgh Glow Worm Tunnel](https://img.atlasobscura.com/OyWBId0GUsRGFlek_Dl7dTPsrQxBKZvms1M0shajMVM/rs:fill:780:520:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iYzcz/ZWNhNy1iNzJkLTRj/ODUtYjhiOC1iNjRk/NzE2Y2JlOTFiMTg1/OWRjMTRmZjViNjA3/Mzlfd29ybSB0dW5u/ZWwgMi5qcGc.jpg?width=400)\
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Helensburgh+Glow+Worm+Tunnel)
 
 A decommissioned railway tunnel now filled with glow worms. Walk 100m into the dark tunnel, point your torch at the ground, and the ceiling glows blue-green. A unique shot — only worth it if you're passing through and the tunnel isn't flooded after recent rain. Wear shoes you don't mind getting muddy.
 
@@ -70,10 +70,7 @@ A decommissioned railway tunnel now filled with glow worms. Walk 100m into the d
 
 ---
 
-### Stop 1 — [Bald Hill Lookout (Stanwell Tops)](https://www.google.com/search?tbm=isch&q=Bald+Hill+Lookout+Stanwell+Tops)
-
-![Bald Hill Lookout](https://commons.wikimedia.org/wiki/Special:FilePath/Bald%20Hill%20Lookout.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Bald+Hill+Lookout+Stanwell+Tops)
+### [Bald Hill Lookout (Stanwell Tops)](https://www.google.com/search?tbm=isch&q=Bald+Hill+Lookout+Stanwell+Tops)
 
 First photo stop of the trip. Elevated 300m above the Pacific, this windswept headland is a paragliding launch point and gives you a sweeping panorama over the coastline, Sea Cliff Bridge, and the Illawarra escarpment stretching south.
 
@@ -82,12 +79,12 @@ First photo stop of the trip. Elevated 300m above the Pacific, this windswept he
 - **Access:** 2-min walk from car park, sealed path
 - **Parking:** Free, at the lookout
 
-### Stop 2 — [Sea Cliff Bridge (Clifton / Coalcliff)](https://www.google.com/search?tbm=isch&q=Sea+Cliff+Bridge+NSW)
+### [Sea Cliff Bridge (Clifton / Coalcliff)](https://www.google.com/search?tbm=isch&q=Sea+Cliff+Bridge+NSW)
 
 The icon of the Grand Pacific Drive. This 665-metre balanced cantilever bridge juts out over the ocean, suspended above the sea against a vertical cliff. Walk it on the pedestrian path — standing mid-bridge with the curve disappearing into the rock face is the classic shot.
 
 ![Sea Cliff Bridge from above](<https://commons.wikimedia.org/wiki/Special:FilePath/Flight%20Over%20Sea%20Cliff%20Bridge%20(Unsplash).jpg?width=400>)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Sea+Cliff+Bridge+NSW)
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Sea+Cliff+Bridge+NSW)
 
 - **Photo style:** Leading lines (bridge curves into cliffs), drone shot from Bald Hill above, close-up of waves hitting the columns below
 - **Best time:** Morning (sun illuminates the cliff face from the east)
@@ -104,10 +101,10 @@ The icon of the Grand Pacific Drive. This 665-metre balanced cantilever bridge j
 
 ---
 
-### Quick Stop 2.5 — [Thirroul Beach](https://www.google.com/search?tbm=isch&q=Thirroul+Beach+NSW)
+### [Thirroul Beach](https://www.google.com/search?tbm=isch&q=Thirroul+Beach+NSW)
 
 ![Thirroul Beach](https://commons.wikimedia.org/wiki/Special:FilePath/Thirroul%20Beach.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Thirroul+Beach+NSW)
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Thirroul+Beach+NSW)
 
 Thirroul is a laid-back beach village wedged between the escarpment and the ocean — known for its artsy vibe, heritage shops, and the long, clean sweep of Thirroul Beach. The beach itself has a classic swimming-pool-on-the-rocks at the southern end (Thirroul Baths) and the escarpment rises dramatically behind the town. Grab a coffee at one of the cafes on the main strip, shoot the beach + pool + escarpment composition, and move on.
 
@@ -122,10 +119,10 @@ Thirroul is a laid-back beach village wedged between the escarpment and the ocea
 
 ---
 
-### Stop 3 — [Minnamurra River Mouth & Mystics Beach](https://www.google.com/search?tbm=isch&q=Mystics+Beach+Minnamurra+NSW)
+### [Minnamurra River Mouth & Mystics Beach](https://www.google.com/search?tbm=isch&q=Mystics+Beach+Minnamurra+NSW)
 
-![Minnamurra Mystics Beach](https://commons.wikimedia.org/wiki/Special:FilePath/Mystics%20Beach,%20Minnamurra.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Mystics+Beach+Minnamurra+NSW)
+![Minnamurra Mystics Beach](https://commons.wikimedia.org/wiki/Special:FilePath/Minnamurra_River_w-sandbank.jpg?width=400)\
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Mystics+Beach+Minnamurra+NSW)
 
 A local secret. Minnamurra is a sleepy riverside village where the Minnamurra River meets the ocean, creating a wide, calm estuary framed by Stack Island (a grassy volcanic plug) on one side and Mystics Beach on the other. Virtually zero tourists — it's where Shellharbour locals go to escape Kiama crowds.
 
@@ -145,12 +142,12 @@ A local secret. Minnamurra is a sleepy riverside village where the Minnamurra Ri
 
 ---
 
-### Stop 4 — [Kiama Blowhole & Lighthouse](https://www.google.com/search?tbm=isch&q=Kiama+Blowhole+NSW)
+### [Kiama Blowhole & Lighthouse](https://www.google.com/search?tbm=isch&q=Kiama+Blowhole+NSW)
 
 Kiama's big blowhole is the world's largest, blasting seawater up to 30 metres high through a natural rock funnel when the swell is right. Right next to it: the 1887 Kiama Lighthouse with its candy-stripe white-and-red tower — the classic coastal contrast shot.
 
 ![Kiama Blowhole in action](https://commons.wikimedia.org/wiki/Special:FilePath/Kiama%20Blowhole%20in%20Action.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Kiama+Blowhole+NSW)
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Kiama+Blowhole+NSW)
 
 - **Photo style:** Spray plume against the lighthouse, slow-shutter dreamy water around the basalt rock platform, sunset silhouette of the lighthouse
 - **Best time:** Mid-afternoon to sunset (the blowhole performs best ~2 hrs before high tide with an E–SE swell)
@@ -158,16 +155,13 @@ Kiama's big blowhole is the world's largest, blasting seawater up to 30 metres h
 - **Parking:** Large car park at Blowhole Point (free)
 
 ![Kiama Lighthouse & Blowhole Point](https://commons.wikimedia.org/wiki/Special:FilePath/Kiama%20Blowhole%20and%20Kiama%20Light,%20postcard.JPG?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Kiama+Lighthouse)
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Kiama+Lighthouse)
 
 > **Check tide times before you go:** The blowhole is most dramatic on a rising tide with a swell from the east or southeast. During calm flat seas, it barely sprays. Locals also recommend the **Little Blowhole** (at Tingira Crescent) — less famous, often more impressive, and usually deserted.
 
 ---
 
-### Stop 5 — [Black Beach & Kiama Harbour](https://www.google.com/search?tbm=isch&q=Black+Beach+Kiama+Harbour)
-
-![Black Beach Kiama](https://commons.wikimedia.org/wiki/Special:FilePath/Black%20Beach,%20Kiama.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Black+Beach+Kiama+NSW)
+### [Black Beach & Kiama Harbour](https://www.google.com/search?tbm=isch&q=Black+Beach+Kiama+Harbour)
 
 Just 2 min from the blowhole, on the sheltered western side of Blowhole Point. Black Beach is a dark-sand cove named for its charcoal-coloured grains — it's completely different from the golden beaches down the coast. The sand gets its colour from the basalt geology of the area and creates beautiful, moody contrast against the turquoise water and green headlands.
 
@@ -183,10 +177,7 @@ Next to it, **Kiama Harbour** is a working fishing harbour with colourful trawle
 
 ---
 
-### Stop 6 — [Cathedral Rocks at Jones Beach](https://www.google.com/search?tbm=isch&q=Cathedral+Rocks+Kiama+NSW)
-
-![Cathedral Rocks Kiama](https://commons.wikimedia.org/wiki/Special:FilePath/Cathedral%20Rocks,%20Kiama.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Cathedral+Rocks+Kiama+NSW)
+### [Cathedral Rocks at Jones Beach](https://www.google.com/search?tbm=isch&q=Cathedral+Rocks+Kiama+NSW)
 
 A 5-min drive south of Kiama town centre, tucked away from the main tourist trail. Two massive basalt rock pillars rise from the ocean just offshore, with waves thundering through the gap between them. At low tide, you can walk onto an extensive rock platform for foreground interest — barnacles, rock pools teeming with sea life, and fern-like seaweed. The pillars catch the last light of the day from the side, glowing orange against a pink sky.
 
@@ -200,12 +191,12 @@ Jones Beach itself is long, quiet, and backed by dunes — almost always empty. 
 
 ---
 
-### Stop 7 — [Bombo Quarry (sunset shoot)](https://www.google.com/search?tbm=isch&q=Bombo+Quarry+Kiama+NSW)
+### [Bombo Quarry (sunset shoot)](https://www.google.com/search?tbm=isch&q=Bombo+Quarry+Kiama+NSW)
 
 A decommissioned basalt quarry on Bombo Headland that looks like another planet. Hexagonal basalt columns (like Giant's Causeway), sheer cliff faces carved by the quarrying, and a dramatic sea wall. The contrast between the industrial past and the wild ocean makes it a photographer's playground.
 
 ![Bombo Quarry — basalt columns and sea wall](https://commons.wikimedia.org/wiki/Special:FilePath/Bombo%20Quarry.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Bombo+Quarry+Kiama+NSW)
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Bombo+Quarry+Kiama+NSW)
 
 - **Photo style:** Moody long-exposures of waves surging through the columnar basalt drain, portraits framed by the basalt pillars, sunset on the Pacific beyond the quarry wall
 - **Best time:** Sunset — the sun sets directly over the ocean from the headland here. Golden light on the basalt columns is stunning
@@ -226,10 +217,10 @@ After sunset, drive 5 min back into Kiama. Grab dinner on Terralong Street — *
 
 > **Drive:** Kiama → Werri Beach → Hyams Beach / Booderee NP → Sydney (~3.5 hrs driving + stops)
 
-### Stop 1 — [Werri Beach & Gerringong](https://www.google.com/search?tbm=isch&q=Werri+Beach+Gerringong+NSW)
+### [Werri Beach & Gerringong](https://www.google.com/search?tbm=isch&q=Werri+Beach+Gerringong+NSW)
 
-![Werri Beach Gerringong](https://commons.wikimedia.org/wiki/Special:FilePath/Werri%20Beach,%20Gerringong.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Werri+Beach+Gerringong+NSW)
+![Werri Beach Gerringong](https://commons.wikimedia.org/wiki/Special:FilePath/Gerringong_and_Werri_Beach.jpg?width=400)\
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Werri+Beach+Gerringong+NSW)
 
 20 min south of Kiama on the coast road. Werri Beach is a 2 km crescent of golden sand wrapped around green rolling hills — the classic South Coast postcard. You'll know it from every Australian tourism brochure: cows on the headland, surfers in the water, the Gerringong headland framing the northern end.
 
@@ -242,10 +233,7 @@ After sunset, drive 5 min back into Kiama. Grab dinner on Terralong Street — *
 
 ---
 
-### Stop 2 — [Seven Mile Beach (Gerroa)](https://www.google.com/search?tbm=isch&q=Seven+Mile+Beach+NSW)
-
-![Seven Mile Beach](https://commons.wikimedia.org/wiki/Special:FilePath/Seven%20Mile%20Beach%20NSW.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Seven+Mile+Beach+NSW)
+### [Seven Mile Beach (Gerroa)](https://www.google.com/search?tbm=isch&q=Seven+Mile+Beach+NSW)
 
 A 5-min drive from Gerringong. As the name suggests: seven miles of uninterrupted sand stretching south towards Shoalhaven Heads. This is a great spot to just pull over, walk, and shoot — nobody around.
 
@@ -255,10 +243,10 @@ A 5-min drive from Gerringong. As the name suggests: seven miles of uninterrupte
 
 ---
 
-### Stop 3 — [Callala Beach (Jervis Bay)](https://www.google.com/search?tbm=isch&q=Callala+Beach+Jervis+Bay)
+### [Callala Beach (Jervis Bay)](https://www.google.com/search?tbm=isch&q=Callala+Beach+Jervis+Bay)
 
-![Callala Beach](https://commons.wikimedia.org/wiki/Special:FilePath/Callala%20Beach,%20Jervis%20Bay.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Callala+Beach+Jervis+Bay)
+![Callala Beach](https://commons.wikimedia.org/wiki/Special:FilePath/CallalaBeach-Huskisson-PC220151.JPG?width=400)\
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Callala+Beach+Jervis+Bay)
 
 Before reaching Huskisson, take a 10-min detour via Myola Road to the northern shore of Jervis Bay. Callala Beach is a 5 km sweep of flour-soft white sand on the bay's quieter northern side — it looks like Hyams Beach but with about 90% fewer people. The water here is just as turquoise, and because it faces south across the bay, the light is softer and the reflections cleaner.
 
@@ -272,16 +260,16 @@ At the northern tip, the beach curls around a sand spit into Currambene Creek �
 
 ---
 
-### Stop 4 — [Huskisson (lunch break)](https://www.google.com/search?tbm=isch&q=Huskisson+Jervis+Bay+NSW)
+### [Huskisson (lunch break)](https://www.google.com/search?tbm=isch&q=Huskisson+Jervis+Bay+NSW)
 
 ~25 min from Callala Beach via Woollamia Road. Huskisson is the buzzing little hub of Jervis Bay with cafes, a waterfront pub, and dolphin/whale-watching tours departing from the wharf. Grab lunch at **The Salty Crab** (fish & chips on the wharf) or **5 Little Pigs** (best cafe in town). If you have an hour to spare, a 2-hr dolphin cruise is well worth it — Jervis Bay has a resident pod of ~80 bottlenose dolphins.
 
 ---
 
-### Stop 5 — [Hyams Beach (Jervis Bay)](https://www.google.com/search?tbm=isch&q=Hyams+Beach+Jervis+Bay+NSW)
+### [Hyams Beach (Jervis Bay)](https://www.google.com/search?tbm=isch&q=Hyams+Beach+Jervis+Bay+NSW)
 
-![Hyams Beach](https://commons.wikimedia.org/wiki/Special:FilePath/Hyams%20Beach,%20Jervis%20Bay.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Hyams+Beach+Jervis+Bay+NSW)
+![Hyams Beach](https://commons.wikimedia.org/wiki/Special:FilePath/Hyams_Beach._Booderee_National_Park_%26_Jervis_Bay_Marine_Park.jpg?width=400)\
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Hyams+Beach+Jervis+Bay+NSW)
 
 The famous white-sand beach. The sand here is so white and fine it squeaks underfoot, and the water is the colour of a Fiji lagoon. Very few other beaches in NSW look like this. Only 10 min from Huskisson.
 
@@ -294,10 +282,7 @@ The famous white-sand beach. The sand here is so white and fine it squeaks under
 
 ---
 
-### Stop 6 — [Booderee National Park (Cave Beach, Murrays Beach & Green Patch)](https://www.google.com/search?tbm=isch&q=Murrays+Beach+Booderee+Jervis+Bay)
-
-![Murrays Beach Jervis Bay](https://commons.wikimedia.org/wiki/Special:FilePath/Murrays%20Beach,%20Jervis%20Bay.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Murrays+Beach+Jervis+Bay)
+### [Booderee National Park (Cave Beach, Murrays Beach & Green Patch)](https://www.google.com/search?tbm=isch&q=Murrays+Beach+Booderee+Jervis+Bay)
 
 Booderee is an Aboriginal-owned national park at the southern end of Jervis Bay. Entry fee is ~$13 per vehicle (national park pass required). Three of the bay's best beaches are inside — we'll hit two.
 
@@ -315,10 +300,10 @@ Booderee is an Aboriginal-owned national park at the southern end of Jervis Bay.
 
 ---
 
-### Stop 7 — [Point Perpendicular Lighthouse](https://www.google.com/search?tbm=isch&q=Point+Perpendicular+Lighthouse+Jervis+Bay)
+### [Point Perpendicular Lighthouse](https://www.google.com/search?tbm=isch&q=Point+Perpendicular+Lighthouse+Jervis+Bay)
 
-![Point Perpendicular](https://commons.wikimedia.org/wiki/Special:FilePath/Point%20Perpendicular%20Lighthouse.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Point+Perpendicular+Lighthouse+Jervis+Bay)
+![Point Perpendicular](https://commons.wikimedia.org/wiki/Special:FilePath/Point_Perpendicular_Lighthouse.jpg?width=400)\
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Point+Perpendicular+Lighthouse+Jervis+Bay)
 
 At the very northern tip of Jervis Bay, accessed via a short detour through Beecroft Peninsula (part of the Beecroft Weapons Range — check if open to the public on your dates). This dramatic lighthouse sits atop 90-metre cliffs, looking straight down into the deep blue. Whales breach below during migration season.
 
@@ -330,9 +315,6 @@ At the very northern tip of Jervis Bay, accessed via a short detour through Beec
 ---
 
 ### Stop 8 (optional) — [Honeymoon Bay](https://www.google.com/search?tbm=isch&q=Honeymoon+Bay+Jervis+Bay+NSW)
-
-![Honeymoon Bay](https://commons.wikimedia.org/wiki/Special:FilePath/Honeymoon%20Bay,%20Jervis%20Bay.jpg?width=400)\
-[*📷 More photos on Google Images*](https://www.google.com/search?tbm=isch&q=Honeymoon+Bay+Jervis+Bay+NSW)
 
 A tiny hidden beach tucked inside the Beecroft Peninsula, just before Point Perpendicular. Crystal-clear water, sheltered from swell, surrounded by bushland. If you have the light and the energy after a long day, this is the cherry on top. The snorkelling is excellent if you brought gear.
 
