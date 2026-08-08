@@ -117,7 +117,7 @@ After Sublime Point, drive 5 min into Katoomba. Dinner on Katoomba Street — **
 
 ### [Govetts Leap (Blackheath)](https://www.google.com/search?tbm=isch&q=Govetts+Leap+Blackheath+Blue+Mountains)
 
-![Blackheath](https://commons.wikimedia.org/wiki/Special:FilePath/2023-05-13_Blackheath,_New_South_Wales.jpg?width=400)\
+![Blackheath](https://www.truebluemountains.com.au/wp-content/uploads/2015/07/Govetts-Leap-Lookout.jpg?width=400)\
 [_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Govetts+Leap+Blackheath+Blue+Mountains)
 
 Arguably the best sunrise in the Blue Mountains. A massive cliff-edge lookout over the Grose Valley with Bridal Veil Falls plunging 180m off the opposite wall. Drive straight to the car park — zero walking required. At sunrise, the first light hits the far cliffs and the valley glows gold. The only other people here before 7am are photographers.
@@ -132,7 +132,7 @@ Arguably the best sunrise in the Blue Mountains. A massive cliff-edge lookout ov
 
 ### [Grand Canyon Loop (Blackheath)](https://www.google.com/search?tbm=isch&q=Grand+Canyon+track+Blackheath+Blue+Mountains)
 
-![Grand Canyon](https://commons.wikimedia.org/wiki/Special:FilePath/2023-05-13_Blackheath,_New_South_Wales.jpg?width=400)\
+![Grand Canyon](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/bb/6d/c2/caption.jpg?w=400)\
 [_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Grand+Canyon+track+Blackheath+Blue+Mountains)
 
 The best walk in the Blue Mountains, and surprisingly quiet. A 6 km circuit starting from Evans Lookout (or Neates Glen) descending into a narrow, fern-lined canyon with sandstone walls, small waterfalls, a creek crossing, and caves along the track. It feels like a different world — cool, damp, and completely enclosed by the canyon walls. The variety — canyon floor, fern gullies, cliff-top lookouts — makes it the richest photographic walk on this trip.
