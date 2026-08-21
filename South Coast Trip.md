@@ -12,7 +12,7 @@
 
 1. [Table of Contents](#table-of-contents)
 2. [Route Overview](#route-overview)
-3. [Day 1 — Sunday](#day-1-friday)
+3. [Day 1 — Sunday](#day-1-sunday)
    1. [Sun & Tide Planning](#sun--tide-planning)
    2. [Kellys Falls Track](#kellys-falls-track)
    3. [Bald Hill Lookout (Stanwell Tops)](#bald-hill-lookout-stanwell-tops)
