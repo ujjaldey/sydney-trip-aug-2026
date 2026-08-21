@@ -13,17 +13,19 @@
 1. [Table of Contents](#table-of-contents)
 2. [Route Overview](#route-overview)
 3. [Day 1 — Friday](#day-1-friday)
-   1. [Otford Lookout](#otford-lookout)
-   2. [Helensburgh Glow Worm Tunnel _(optional, ~20 min)_](#helensburgh-glow-worm-tunnel-optional-20-min)
+   1. [Sun & Tide Planning](#sun-tide-planning)
+   2. [Kellys Falls Track](#kellys-falls-track)
    3. [Bald Hill Lookout (Stanwell Tops)](#bald-hill-lookout-stanwell-tops)
    4. [Sea Cliff Bridge (Clifton / Coalcliff)](#sea-cliff-bridge-clifton-coalcliff)
    5. [Thirroul Beach](#thirroul-beach)
-   6. [Minnamurra River Mouth & Mystics Beach](#minnamurra-river-mouth-mystics-beach)
-   7. [Kiama Blowhole & Lighthouse](#kiama-blowhole-lighthouse)
-   8. [Black Beach & Kiama Harbour](#black-beach-kiama-harbour)
-   9. [Cathedral Rocks at Jones Beach](#cathedral-rocks-at-jones-beach)
-   10. [Bombo Quarry (sunset shoot)](#bombo-quarry-sunset-shoot)
-   11. [Evening — Kiama town](#evening-kiama-town)
+   6. [Port Kembla Lookout (Hill 60)](#port-kembla-lookout-hill-60)
+   7. [Bushrangers Bay (Bass Point)](#bushrangers-bay-bass-point)
+   8. [Killalea Beach — The Farm](#killalea-beach-the-farm)
+   9. [Minnamurra River Mouth & Mystics Beach](#minnamurra-river-mouth-mystics-beach)
+   10. [Kiama Blowhole & Lighthouse](#kiama-blowhole-lighthouse)
+   11. [Cathedral Rocks at Jones Beach](#cathedral-rocks-at-jones-beach)
+   12. [Bombo Quarry (sunset shoot)](#bombo-quarry-sunset-shoot)
+   13. [Evening — Kiama town](#evening-kiama-town)
 4. [Day 2 — Saturday](#day-2-saturday)
    1. [Werri Beach & Gerringong](#werri-beach-gerringong)
    2. [Seven Mile Beach (Gerroa)](#seven-mile-beach-gerroa)
@@ -48,20 +50,20 @@
 ## Route Overview
 
 ```
-Strathfield → Sea Cliff Bridge → Minnamurra → Kiama → Birubi Bombo Headland → Werri Beach → Callala Beach → Hyams Beach → Murrays Beach → Strathfield
+Strathfield → Engadine (breakfast) → Kellys Falls → Bald Hill → Sea Cliff Bridge → Thirroul → Port Kembla (Hill 60) → Bass Point (Bushrangers Bay) → Killalea → Minnamurra → Kiama Blowhole → Cathedral Rocks → Bombo Quarry → Kiama (overnight)
 
-Day 1: ~170 km, ~3.5 hr driving + stops (~8–9 hrs total with photography)
+Day 1: ~180 km, ~3.5–4 hr driving + stops (~10–11 hrs total with photography)
 Day 2: ~240 km, ~4 hr driving + stops (~9–10 hrs total)
 ```
 
-Google Maps limits 10 stops per route — the URLs below capture the main stops. Quick pull-overs (Otford, Seven Mile, Green Patch, Honeymoon Bay) are listed as on-the-way stops in the itinerary and don't need their own waypoint.
+Google Maps allows up to ~13 driving waypoints, so the Day 1 URL below is the final map you built — breakfast and the hotel are included as route bookends. Treat Thirroul, Minnamurra and the Blowhole as the flexible stops that can be trimmed if you're behind schedule.
 
 > **Tip:** All links in this file — **Cmd+Click (Mac) or Ctrl+Click (Windows)** to open in a new tab. Route & reference links below use HTML and open in new tabs automatically.
 
 ---
 
-- **[🗺️ Day 1 Route — Strathfield → Kiama](https://www.google.com/maps/dir/Strathfield+NSW/Bald+Hill+Lookout%2C+Stanwell+Tops+NSW/Sea+Cliff+Bridge%2C+NSW/Thirroul+Beach%2C+NSW/Minnamurra+River%2C+NSW/Kiama+Blowhole%2C+NSW/Black+Beach%2C+Kiama+NSW/Cathedral+Rocks%2C+Kiama+NSW/Bombo+Quarry%2C+NSW/Kiama+NSW)**  
-  Strathfield → Bald Hill → Sea Cliff Bridge → Thirroul → Minnamurra → Kiama Blowhole → Black Beach → Cathedral Rocks → Bombo Quarry → Kiama
+- **[🗺️ Day 1 Route — Strathfield → Kiama (final map)](https://www.google.com/maps/dir/Strathfield+NSW+2135/The+Local+Pantry,+5%2F16+Waratah+Rd,+Engadine+NSW+2233/Kellys+Falls+Track,+New+South+Wales+2508/Bald+Hill+lookout,+XC72%2BQXX,+Hill+End+NSW+2850/Sea+Cliff+Bridge,+Lawrence+Hargrave+Dr,+Clifton+NSW+2515/Thirroul+Beach,+Thirroul+NSW/Port+Kembla+Lookout+Hill+60,+Military+Rd,+Port+Kembla+NSW+2505/Bushrangers+Bay+Carpark,+Bushrangers+Bay,+Bass+Point+Tourist+Rd,+Shell+Cove+NSW+2529/Killalea+Beach,+Shell+Cove+NSW+2529/Minnamurra+River,+New+South+Wales/Cathedral+Rocks,+36+Cliff+Dr,+Kiama+Downs+NSW+2533/Bombo+Headland+Quarry,+Darien+Ave,+Bombo+NSW+2533/Kiama+Blowhole,+Kiama+NSW+2533/Kiama+Shores,+45%2F51+Collins+St,+Kiama+NSW+2533)**  
+  Strathfield → Engadine (breakfast) → Kellys Falls → Bald Hill → Sea Cliff Bridge → Thirroul → Port Kembla (Hill 60) → Bass Point → Killalea → Minnamurra → Cathedral Rocks → Bombo Quarry → Kiama Blowhole → Kiama Shores. _Note: the Sun & Tide Plan below recommends swapping the Blowhole earlier (near the ~1:30–2 pm high tide) rather than visiting it last._
 
 - **[🗺️ Day 2 Route — Kiama → Jervis Bay → Strathfield](https://www.google.com/maps/dir/Kiama+NSW/Werri+Beach%2C+Gerringong+NSW/Callala+Beach%2C+NSW/Huskisson+NSW/Hyams+Beach%2C+NSW/Murrays+Beach%2C+Jervis+Bay+NSW/Point+Perpendicular+Lighthouse%2C+NSW/Berry+NSW/Strathfield+NSW)**  
   Kiama → Werri Beach → Callala Beach → Huskisson → Hyams Beach → Murrays Beach → Point Perpendicular → Berry → Strathfield
@@ -76,27 +78,76 @@ Grand Pacific Drive is one of Australia's most scenic coastal routes — 140 km 
 
 ## Day 1 — Friday
 
-> **Drive:** Strathfield → Royal National Park → Sea Cliff Bridge → Kiama (~2 hrs + stops)
+> **Drive:** Strathfield → Engadine (breakfast) → Kellys Falls → Bald Hill → Sea Cliff Bridge → Thirroul → Port Kembla → Bass Point → Killalea → Minnamurra → Kiama (overnight)
 
-### [Otford Lookout](https://www.google.com/search?tbm=isch&q=Otford+Lookout+NSW)
+### Sun & Tide Planning
 
-![Otford Lookout](https://commons.wikimedia.org/wiki/Special:FilePath/Otford%20Lookout.jpg?width=400)\
-[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Otford+Lookout+NSW)
+**Sun — Fri 4 Sep 2026 (Kiama):**
 
-Before Bald Hill, a 30-second detour off Lawrence Hargrave Drive to this lesser-known elevated viewpoint — quieter than Bald Hill with a framed coastline view looking south toward Sea Cliff Bridge. Perfect warm-up shot.
+|                     | Time          |
+| ------------------- | ------------- |
+| Sunrise             | 6:12 am       |
+| Sunset              | 5:39 pm       |
+| Morning golden hour | ~6:15–7:00 am |
+| Evening golden hour | ~4:50–5:40 pm |
+| Blue hour           | ~5:40–6:05 pm |
 
-- **Access:** 1-min walk from the roadside pull-off. No facilities.
-- **Crowds:** Almost zero
+**Tides — Kiama Harbour (approximate; confirm 1–2 days before):**
 
-### [Helensburgh Glow Worm Tunnel](https://www.google.com/search?tbm=isch&q=Helensburgh+Glow+Worm+Tunnel) _(optional, ~20 min)_
+|             | Time          |
+| ----------- | ------------- |
+| Morning low | ~7:00–7:30 am |
+| Midday high | ~1:30–2:00 pm |
+| Evening low | ~7:30–8:00 pm |
 
-![Helensburgh Glow Worm Tunnel](https://img.atlasobscura.com/OyWBId0GUsRGFlek_Dl7dTPsrQxBKZvms1M0shajMVM/rs:fill:780:520:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iYzcz/ZWNhNy1iNzJkLTRj/ODUtYjhiOC1iNjRk/NzE2Y2JlOTFiMTg1/OWRjMTRmZjViNjA3/Mzlfd29ybSB0dW5u/ZWwgMi5qcGc.jpg?width=400)\
-[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Helensburgh+Glow+Worm+Tunnel)
+> 🌗 **Neap-tide week.** The moon is near first-quarter (the lunar eclipse was 27–28 Aug), so the range is small (~0.5–0.6 m) — highs won't be big and lows won't pull far back. This shapes the whole afternoon below.
 
-A decommissioned railway tunnel now filled with glow worms. Walk 100m into the dark tunnel, point your torch at the ground, and the ceiling glows blue-green. A unique shot — only worth it if you're passing through and the tunnel isn't flooded after recent rain. Wear shoes you don't mind getting muddy.
+**How this reshapes the route:**
 
-- **Access:** Park at the corner of Tunnel Road & Old Station Street; 5-min bush walk
-- **Note:** Floods after heavy rain — check conditions. Bring a torch.
+1. **Morning low (~7:00 am) is spent at the northern end** — Kellys Falls, Bald Hill, Sea Cliff Bridge and Hill 60 are all light-driven stops, so the morning low doesn't matter there.
+2. **The midday high (~1:30–2:00 pm) is the only window the Blowhole can perform.** The raw Google route saves the Blowhole for last (≈ low tide = no spray). **Proposed change:** after Minnamurra (~2:00 pm), drop down to the **Blowhole ~2:40 pm**, then come back up to Cathedral Rocks for the golden hour. The backtrack is only ~10 min — the single biggest improvement to the day.
+3. **Cathedral Rocks rock platform** needs a low-ish tide. The evening low is ~7:30–8:00 pm, so the tide is _falling through golden hour_ — arrive ~3:40 pm and the platform is at its most exposed of the afternoon by ~5:00 pm. On a neap tide expect only partial exposure — use the rock pools for foreground instead.
+4. **Bushrangers Bay & Killalea rock pools** are at their best ±2 h around a low tide; neither low falls inside your route window, so treat both as **quick 20–30 min turquoise-water stops**, not long pool sessions.
+5. **Bombo Quarry sunset** — the sun sets over the ocean from Bombo at 5:39 pm; best light 5:00–5:45 pm. Cathedral Rocks (3:40–5:00) and Bombo (5:00–5:45) are only ~5 min apart, so both fit in the golden hour.
+
+**Revised Day 1 flow:**
+
+```
+6:30 am     Depart Strathfield
+7:30–8:15 am  Breakfast — The Local Pantry, Engadine
+8:45–9:15 am  Kellys Falls Track
+9:35–9:50 am  Bald Hill Lookout
+10:05–10:45 am Sea Cliff Bridge
+11:00–11:20 am Thirroul Beach (coffee)
+11:35 am–12:05 pm Port Kembla Lookout (Hill 60)
+12:25–12:55 pm Bushrangers Bay (Bass Point)
+1:10–1:40 pm  Killalea Beach (The Farm)
+2:00–2:25 pm  Minnamurra River (Stack Island)
+2:40–3:20 pm  Kiama Blowhole & Lighthouse   ← near midday high tide
+3:40–5:00 pm  Cathedral Rocks (falling tide + golden hour)
+5:00–5:45 pm  Bombo Quarry (sunset 5:39 pm)
+6:00 pm       Check in — Kiama Shores
+```
+
+_Trim order if behind schedule: Thirroul first, then Minnamurra, then the Blowhole (only worth it if the swell is up)._
+
+---
+
+### [Kellys Falls Track](https://www.google.com/search?tbm=isch&q=Kellys+Falls+NSW)
+
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Kellys+Falls+NSW)
+
+A short detour off the F6/Princes corridor (Helensburgh exit) before you join the Grand Pacific Drive proper. A cascading waterfall drops over layered sandstone into a plunge pool in a rainforest-lined gully — in the **Garawarra State Conservation Area** (right next to Royal National Park, but **free to enter**, no park fee). Four lookout platforms peer down into the gully, and a short, steep set of steps drops down closer to the falls.
+
+- **Photo style:** Long-exposure cascades + plunge pool (bring a polariser/ND filter), fern-lined gully scenes, top-down lookouts
+- **Best time:** Morning — soft light in the gully, few people. Flow is at its best a few days after rain; in dry spells the cascades thin out
+- **Access:** Park at the Kellys Falls picnic area car park (off Kellys Falls Road); 2–3 min walk to the nearest lookout, steeper steps down to the falls
+- **Parking:** Free bitumen car park at the picnic area
+- **Note:** Rocks and steps are extremely slippery when wet; short unsealed section of road to the car park (2WD-fine)
+
+---
+
+**Drive Kellys Falls → Bald Hill: ~20 min** — rejoin Lawrence Hargrave Drive and head south.
 
 ---
 
@@ -145,7 +196,64 @@ Thirroul is a laid-back beach village wedged between the escarpment and the ocea
 
 ---
 
-**Drive Thirroul → Minnamurra: ~15 min** — through Wollongong, then join the M1/Princes Highway.
+**Drive Thirroul → Port Kembla: ~25 min** — south on Lawrence Hargrave Drive, then through Wollongong on the M1.
+
+---
+
+### [Port Kembla Lookout (Hill 60)](https://www.google.com/search?tbm=isch&q=Hill+60+Lookout+Port+Kembla)
+
+![Hill 60 Lookout, Port Kembla](https://commons.wikimedia.org/wiki/Special:FilePath/Hill%2060%20port%20kembla%20nsw6-7.jpg?width=400)\
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Hill+60+Lookout+Port+Kembla)
+
+A 71-metre headland that's equal parts history and panorama. Hill 60 was the site of the **Illowra Battery** — a World War II coastal-artillery fortification — and the concrete gun emplacements still sit in the grass, staring out over the Pacific. From the top you get a sweeping 360° view: the ocean and beaches below (Port Kembla Beach, Fishermans Beach), the industrial port and steelworks to the west, and the Illawarra Escarpment behind. A genuinely unique composition — military relics framing an industrial-meets-coastal vista.
+
+- **Photo style:** Gun emplacements as foreground with ocean behind, coastal panorama, long-lens compression of the port + escarpment
+- **Best time:** Morning to early afternoon — the lookout faces east, so the ocean stays lit for most of the day; late afternoon backlights the water
+- **Access:** Short, well-formed walking track from the small car park on Military Road; stairs involved
+- **Parking:** Free on-site parking
+- **Note:** The WW2 tunnels/bunkers are sealed — don't expect to go inside. Not wheelchair-accessible
+
+---
+
+**Drive Port Kembla → Bass Point: ~15 min** — continue south, exit onto the Shellharbour coast road.
+
+---
+
+### [Bushrangers Bay (Bass Point)](https://www.google.com/search?tbm=isch&q=Bushrangers+Bay+Bass+Point+NSW)
+
+![Bushrangers Bay — Bass Point](https://images.squarespace-cdn.com/content/v1/596b2969d2b85786e6892853/507d9708-42a4-48be-a939-0f3ee1f0f9b0/DJI_0008-Edit-6.jpg?w=400)\
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Bushrangers+Bay+Bass+Point+NSW)
+
+A sheltered, almost-untouched bay tucked into the southern side of Bass Point, just south of Shellharbour. The turquoise rock pools scattered across the platform are the draw — the water glows bright aqua against the dark rock even at midday. The bay itself is an **aquatic reserve** (no fishing, abundant marine life) and the headland is a known whale-watching vantage during migration. No facilities, no crowds — just you, the pools, and the sound of the swell.
+
+- **Photo style:** Turquoise rock pools with long-exposure water, the empty bay from the coastal track, whale spouts on the horizon (binoculars or long lens)
+- **Best time:** 🌊 **Low tide is ideal (±2 h)** for the pools and rock platform. On this trip the lows (~7:00 am / ~7:30 pm) don't sit inside your route window, so treat it as a quick 20–30 min stop — the pools are still photogenic at mid-tide
+- **Access:** ~900 m easy return walk from the Bushrangers Bay car park (end of Bass Point Tourist Rd; last ~1.7 km unsealed but 2WD-fine)
+- **Parking:** Free car park; open 6:30 am – 8:00 pm (gated), closed on total fire-ban days
+- **Safety:** Unpatrolled; stay off wet, dark rock when the swell is up
+
+---
+
+**Drive Bass Point → Killalea: ~10 min** — back to the Princes Highway, then Killalea Drive.
+
+---
+
+### [Killalea Beach — The Farm](https://www.google.com/search?tbm=isch&q=Killalea+Beach+The+Farm+NSW)
+
+![Killalea State Park](https://commons.wikimedia.org/wiki/Special:FilePath/Killalea%20State%20Park.jpg?width=400)\
+[_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Killalea+Beach+The+Farm+NSW)
+
+A **National Surfing Reserve** locals simply call "The Farm" — consistently voted one of Australia's best beaches. A wide, unpatrolled surf beach curls below rolling green headlands backed by remnant rainforest and a lagoon. From the headland lookout near the kiosk you get the classic South Coast frame: emerald grass hills over golden sand and blue water. At the southern end, a scramble over the rocks leads to a hidden swimming pool ("Dream Pool") where waves pour in — a gorgeous long-exposure subject, but it needs calm swell and a low-ish tide.
+
+- **Photo style:** Green headlands over the beach from the lookout, surf action, long-exposure waves in the hidden southern rock pool
+- **Best time:** Midday for the green-to-turquoise contrast; 🌊 **low tide for the southern rock pools** (doesn't align this trip — keep it a quick ~30–40 min stop)
+- **Access:** Free car park on Killalea Drive; short walk to the beach, lookout platform near The Farm Kiosk
+- **Parking:** Free; facilities (toilets, picnic tables) at the picnic area
+- **Note:** Unpatrolled surf beach with strong rips — swim with care. No pets. "The Farm" kiosk is run by the local Aboriginal community
+
+---
+
+**Drive Killalea → Minnamurra: ~15 min** — back on the Princes Highway, heading south.
 
 ---
 
@@ -161,14 +269,14 @@ A local secret. Minnamurra is a sleepy riverside village where the Minnamurra Ri
 **Minnamurra River Mouth:** Calm lagoon-like waters, paddleboarders, families. Stack Island sits offshore like a green pyramid — beautiful at golden hour.
 
 - **Photo style:** Stack Island reflection in the calm river at golden hour, rainforest-fringed empty beach, drone shots of the river-meets-ocean curve
-- **Best time:** Morning — the light hits Stack Island from over the ocean
+- **Best time:** Morning is ideal (the light hits Stack Island from over the ocean) — but on this route you'll arrive ~2:00 pm, so grab a quick river/beach frame and move on. Golden hour here loses out to Cathedral Rocks + Bombo
 - **Access:** Park at the Minnamurra River Reserve or Mystics car park at the end of Charles Avenue. Short walks
 - **Parking:** Free, usually plenty of spots
 - **Crowds:** Very few — this is not on the tourist radar
 
 ---
 
-**Drive Minnamurra → Kiama: ~10 min** — back on the highway, 1 exit south.
+**Drive Minnamurra → Kiama Blowhole: ~12 min** — back on the highway, 1 exit south, then down to Blowhole Point. _Per the Sun & Tide plan, hit the Blowhole now (near the ~1:30–2:00 pm high) before heading back up to Cathedral Rocks._
 
 ---
 
@@ -180,7 +288,7 @@ Kiama's big blowhole is the world's largest, blasting seawater up to 30 metres h
 [_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Kiama+Blowhole+NSW)
 
 - **Photo style:** Spray plume against the lighthouse, slow-shutter dreamy water around the basalt rock platform, sunset silhouette of the lighthouse
-- **Best time:** Mid-afternoon to sunset (the blowhole performs best ~2 hrs before high tide with an E–SE swell)
+- **Best time:** ~2 hrs before high tide with an E–SE swell. On Fri 4 Sep the high is ~1:30–2:00 pm, so **aim for ~2:40–3:20 pm** — not sunset (by then the tide is out and it won't spray). Neap range means even the high won't be huge, so it really needs a decent E/SE swell to fire at all
 - **Access:** 2-min walk from the Blowhole Point car park; sealed path, fully accessible
 - **Parking:** Large car park at Blowhole Point (free)
 
@@ -191,19 +299,9 @@ Kiama's big blowhole is the world's largest, blasting seawater up to 30 metres h
 
 ---
 
-### [Black Beach & Kiama Harbour](https://www.google.com/search?tbm=isch&q=Black+Beach+Kiama+Harbour)
+> **On the way to Cathedral Rocks:** if you have spare time after the Blowhole (~3:20 pm), the **Kiama Lighthouse** next to it is worth a 5-min silhouette frame, and **Black Beach** (a 2-min walk from Blowhole Point) is a dark-sand cove locals use — a quick moody contrast shot. Neither is essential — Cathedral Rocks is the priority.
 
-Just 2 min from the blowhole, on the sheltered western side of Blowhole Point. Black Beach is a dark-sand cove named for its charcoal-coloured grains — it's completely different from the golden beaches down the coast. The sand gets its colour from the basalt geology of the area and creates beautiful, moody contrast against the turquoise water and green headlands.
-
-Next to it, **Kiama Harbour** is a working fishing harbour with colourful trawlers, timber jetties, and still water that reflects the surrounding hills like a mirror at golden hour. Zero crowds — tourists walk from the blowhole car park to the lighthouse and drive away without ever seeing this side.
-
-- **Photo style:** Dark sand contrast against bright water, fishing boats reflected in calm harbour water at sunset, the timber harbour jetty leading into the frame, pilot boat station with its red roof against green hills
-- **Best time:** Mid-afternoon for the harbour reflections, sunset for the beach
-- **Access:** Walk ~2 min from Blowhole Point (past the swimming pool) or park at Black Beach car park (Shoalhaven Street)
-- **Parking:** Small car park at Black Beach, or walk from Blowhole Point
-- **Crowds:** None — locals only
-
-> **Also worth seeing:** **Kendalls Beach**, a 5-min drive south — a beautiful sweeping bay with the Kiama headland framing one end. Popular with locals walking dogs but rarely with tourists. Good for a mid-afternoon beach shot with the green hills rolling into the sea.
+**Drive Blowhole → Cathedral Rocks: ~8 min** — head back north to Kiama Downs (via North Kiama Drive), then to the Jones Beach car park.
 
 ---
 
@@ -217,8 +315,8 @@ A 5-min drive south of Kiama town centre, tucked away from the main tourist trai
 Jones Beach itself is long, quiet, and backed by dunes — almost always empty. The combination of the rock formation, the empty beach, and the clean horizon makes this one of the best photography stops on the coast. It's used for wedding shoots for a reason.
 
 - **Photo style:** Long-exposure waves wrapping around the pillars, golden-hour side-light on the basalt columns, reflections in the tidal pools, the dune grass and empty sweep of Jones Beach as a wider landscape
-- **Best time:** Golden hour / sunset — the light hits the pillars from the side and the sky turns pink behind them
-- **Access:** 5-min walk from the Jones Beach car park down to the rock platform (**check tides — accessible at low tide only**)
+- **Best time:** Golden hour — the light hits the pillars from the side and the sky turns pink behind them. On Fri 4 Sep the tide is **falling all afternoon toward the ~7:30–8:00 pm low**, so the platform is most exposed ~4:30–5:00 pm. **Arrive ~3:40 pm** and work the rock pools + columns through golden hour
+- **Access:** 5-min walk from the Jones Beach car park down to the rock platform (**check tides — accessible at low tide only**; on this neap tide expect partial exposure, so pick foreground from the rock pools)
 - **Parking:** Small gravel car park at the north end of Jones Beach (off North Kiama Drive)
 - **Crowds:** Low — mostly surfers and dog walkers. Weekday evenings: often completely empty
 
@@ -232,7 +330,7 @@ A decommissioned basalt quarry on Bombo Headland that looks like another planet.
 [_📷 Google Images_](https://www.google.com/search?tbm=isch&q=Bombo+Quarry+Kiama+NSW)
 
 - **Photo style:** Moody long-exposures of waves surging through the columnar basalt drain, portraits framed by the basalt pillars, sunset on the Pacific beyond the quarry wall
-- **Best time:** Sunset — the sun sets directly over the ocean from the headland here. Golden light on the basalt columns is stunning
+- **Best time:** Sunset (5:39 pm on Fri 4 Sep) — the sun sets directly over the ocean from the headland here. Golden light on the basalt columns from ~5:00 pm. Only ~5 min from Cathedral Rocks, so hit Cathedral first, then this for the last light
 - **Access:** Park at the Bombo Headland car park (end of Darien Ave), then a 15-min walk along the track to the quarry. Uneven ground, rocks, and waves — wear sturdy shoes and watch your step
 - **Parking:** Small gravel lot at Darien Avenue, or street parking nearby
 
@@ -371,27 +469,27 @@ Take the Princes Highway (A1) north via Nowra and then up the Hume Motorway (M31
 
 ## Accommodation — Final Verdict (verified 8 Aug 2026)
 
-*All five candidates reviewed against your priorities: **cleanliness, safety, private bathroom, accessibility, location** — WiFi + free parking required. Prices in USD, 1 night / 2 adults, excl. 10% VAT. Your overnight is in **Kiama**, so Jervis Bay hotels are out of range.*
+_All five candidates reviewed against your priorities: **cleanliness, safety, private bathroom, accessibility, location** — WiFi + free parking required. Prices in USD, 1 night / 2 adults, excl. 10% VAT. Your overnight is in **Kiama**, so Jervis Bay hotels are out of range._
 
-| | **Kiama Shores** | **Kiama Motel 617** | **Dolphin Shores** | **Huskisson Bayside** | **Nelson's Oasis** |
-|---|---|---|---|---|---|
-| **Location** | Kiama — Collins St | Kiama — Manning St | Vincentia (40 min south) | Huskisson (40 min south) | Vincentia (40 min south) |
-| **Score / reviews** | **8.7 / 2,281** | 8.1 / 1,939 | 8.8 / 817 | 8.0 / 1,462 | 8.9 / 33 ⚠️ |
-| **Couples** | **9.6** | 8.6 | 8.9 | 9.3 | 9.5 |
-| **Cleanliness** | **9.2** | 8.7 | 9.2 | 8.4 | **9.5** ⚠️ |
-| **Comfort** | **9.3** | 8.6 | 9.3 | 8.4 | 9.0 |
-| **Value** | **8.6** | 8.3 | 8.7 | 8.1 | 8.3 |
-| **Location score** | **9.5** | 8.6 | 9.1 | 9.3 | 9.4 |
-| **WiFi** | 8.0 | 8.3 | **9.6** | 8.9 | 38 Mbps |
-| **Private bath** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Free parking** | ✅ On-site | ✅ On-site | ✅ On-site | ✅ On-site | ✅ On-site |
-| **Accessibility** | ✅ Disabled facilities | ⚠️ Stairs only | ✅ Disabled facilities | ✅ Disabled facilities | Ground floor studio |
-| **Room for us** | Deluxe King 1st Floor **$143** (355 sq ft, kitchenette, balcony, pool/garden view, recently renovated) | Queen Suite **$127** (215 sq ft) | Standard Double **$144** (280 sq ft) | Studio **$157** (431 sq ft, kitchenette) | 1-Bed House **$224** (172 sq ft, kitchenette, +$90 cleaning fee) |
-| **Extras** | Saltwater pool | Microwave, toaster | Plunge pool, spa options | Pool, beachfront, restaurant/bar | Private courtyard, beachfront, adults-only |
-| **Cancellation** | Free until Sep 3 | Free until Sep 2 | Free until Sep 1 | Free until Sep 2 | Free until Aug 21 ❌ |
-| **Verdict** | ✅ **Book this** | ⚡ Budget fallback | ❌ 40 min from Kiama | ❌ 40 min from Kiama | ❌ $224 + 33 reviews only |
+|                     | **Kiama Shores**                                                                                       | **Kiama Motel 617**              | **Dolphin Shores**                   | **Huskisson Bayside**                    | **Nelson's Oasis**                                               |
+| ------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------- | ------------------------------------ | ---------------------------------------- | ---------------------------------------------------------------- |
+| **Location**        | Kiama — Collins St                                                                                     | Kiama — Manning St               | Vincentia (40 min south)             | Huskisson (40 min south)                 | Vincentia (40 min south)                                         |
+| **Score / reviews** | **8.7 / 2,281**                                                                                        | 8.1 / 1,939                      | 8.8 / 817                            | 8.0 / 1,462                              | 8.9 / 33 ⚠️                                                      |
+| **Couples**         | **9.6**                                                                                                | 8.6                              | 8.9                                  | 9.3                                      | 9.5                                                              |
+| **Cleanliness**     | **9.2**                                                                                                | 8.7                              | 9.2                                  | 8.4                                      | **9.5** ⚠️                                                       |
+| **Comfort**         | **9.3**                                                                                                | 8.6                              | 9.3                                  | 8.4                                      | 9.0                                                              |
+| **Value**           | **8.6**                                                                                                | 8.3                              | 8.7                                  | 8.1                                      | 8.3                                                              |
+| **Location score**  | **9.5**                                                                                                | 8.6                              | 9.1                                  | 9.3                                      | 9.4                                                              |
+| **WiFi**            | 8.0                                                                                                    | 8.3                              | **9.6**                              | 8.9                                      | 38 Mbps                                                          |
+| **Private bath**    | ✅                                                                                                     | ✅                               | ✅                                   | ✅                                       | ✅                                                               |
+| **Free parking**    | ✅ On-site                                                                                             | ✅ On-site                       | ✅ On-site                           | ✅ On-site                               | ✅ On-site                                                       |
+| **Accessibility**   | ✅ Disabled facilities                                                                                 | ⚠️ Stairs only                   | ✅ Disabled facilities               | ✅ Disabled facilities                   | Ground floor studio                                              |
+| **Room for us**     | Deluxe King 1st Floor **$143** (355 sq ft, kitchenette, balcony, pool/garden view, recently renovated) | Queen Suite **$127** (215 sq ft) | Standard Double **$144** (280 sq ft) | Studio **$157** (431 sq ft, kitchenette) | 1-Bed House **$224** (172 sq ft, kitchenette, +$90 cleaning fee) |
+| **Extras**          | Saltwater pool                                                                                         | Microwave, toaster               | Plunge pool, spa options             | Pool, beachfront, restaurant/bar         | Private courtyard, beachfront, adults-only                       |
+| **Cancellation**    | Free until Sep 3                                                                                       | Free until Sep 2                 | Free until Sep 1                     | Free until Sep 2                         | Free until Aug 21 ❌                                             |
+| **Verdict**         | ✅ **Book this**                                                                                       | ⚡ Budget fallback               | ❌ 40 min from Kiama                 | ❌ 40 min from Kiama                     | ❌ $224 + 33 reviews only                                        |
 
-**Book Kiama Shores — Deluxe King First Floor @ $143.** Best scores across all priority metrics that matter: cleanliness 9.2, comfort 9.3, location 9.5 (walking distance to harbour + blowhole, opposite the park), couples rating 9.6. Recently refurbished 355 sq ft room with private kitchenette, balcony overlooking pool and gardens, disabled-access facilities. Reviews: *"recently refurbished, great size, comfy bed... real hidden gem."*
+**Book Kiama Shores — Deluxe King First Floor @ $143.** Best scores across all priority metrics that matter: cleanliness 9.2, comfort 9.3, location 9.5 (walking distance to harbour + blowhole, opposite the park), couples rating 9.6. Recently refurbished 355 sq ft room with private kitchenette, balcony overlooking pool and gardens, disabled-access facilities. Reviews: _"recently refurbished, great size, comfy bed... real hidden gem."_
 
 - **Budget fallback:** Motel 617 Queen Suite @ $127 — clean (8.7), central, but older and stairs-only to upper floors.
 - **Jervis Bay hotels (all dropped):** Dolphin Shores, Huskisson Bayside, and Nelson's Oasis are all 40+ min south of your Day 1 sunset at Bombo. Nelson's also has only 33 reviews (vs 2,281 for Kiama Shores) and costs $224 with a $90 cleaning fee — the worst value of the five.
@@ -406,46 +504,45 @@ _Use this table to decide on the go. Must-go stops are the photography prioritie
 
 | #   | Place                                                                                                                | Day | Best light / tide                               | Priority                               | Why                                                                                                                                                                                                     |
 | --- | -------------------------------------------------------------------------------------------------------------------- | --- | ----------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [Otford Lookout](https://www.google.com/search?tbm=isch&q=Otford+Lookout+NSW)                                        | 1   | Morning                                         | ⏭️ Can skip                            | Similar view to Bald Hill but less dramatic; 30-sec pullover only if you want a warm-up shot                                                                                                            |
-| 2   | [Helensburgh Glow Worm Tunnel](https://www.google.com/search?tbm=isch&q=Helensburgh+Glow+Worm+Tunnel)                | 1   | Anytime (dark tunnel)                           | ⏭️ Can skip                            | Unique shot but 20-min detour; floods after rain. Only worth it if conditions are perfect                                                                                                               |
-| 3   | [Bald Hill Lookout](https://www.google.com/search?tbm=isch&q=Bald+Hill+Lookout+Stanwell+Tops)                        | 1   | Morning                                         | ⚡ Go if time                          | Classic panorama, zero detour, 5-min stop — do it, but don't linger                                                                                                                                     |
-| 4   | [Sea Cliff Bridge](https://www.google.com/search?tbm=isch&q=Sea+Cliff+Bridge+NSW)                                    | 1   | Morning                                         | ✅ Must-go                             | **Iconic.** Morning light on the eastern cliffs. Walk halfway out for the curve shot. Irreplaceable                                                                                                     |
-| 5   | [Thirroul Beach](https://www.google.com/search?tbm=isch&q=Thirroul+Beach+NSW)                                        | 1   | Morning                                         | ⏭️ Can skip                            | Pleasant beach town but nothing unique photographically. Coffee and go                                                                                                                                  |
-| 6   | [Minnamurra / Mystics Beach](https://www.google.com/search?tbm=isch&q=Mystics+Beach+Minnamurra+NSW)                  | 1   | Morning                                         | ⚡ Go if time                          | Quiet rainforest-to-beach composition with Stack Island. Different from everything else on the trip                                                                                                     |
-| 7   | [Kiama Blowhole](https://www.google.com/search?tbm=isch&q=Kiama+Blowhole+NSW)                                        | 1   | Mid-afternoon • 🌊 Needs high tide + E/SE swell | ⏭️ Can skip                            | Hyped tourist draw. Only performs with perfect tide + swell — if conditions are flat, it does nothing. Cathedral Rocks is the real priority here                                                        |
-| 8   | [Black Beach & Kiama Harbour](https://www.google.com/search?tbm=isch&q=Black+Beach+Kiama+Harbour)                    | 1   | Mid-afternoon / sunset                          | ⚡ Go if time                          | 2-min walk from the blowhole. Dark sand + fishing boats. Low effort, good contrast filler                                                                                                               |
-| 9   | [Cathedral Rocks at Jones Beach](https://www.google.com/search?tbm=isch&q=Cathedral+Rocks+Kiama+NSW)                 | 1   | Golden hour • 🌊 **Needs low tide**             | ✅ Must-go — **top priority of Day 1** | **The Kiama money shot.** Basalt pillars against sunset sky from the rock platform. Only accessible at low tide — plan the entire afternoon around this. Cross-reference tide chart before leaving home |
-| 10  | [Bombo Quarry](https://www.google.com/search?tbm=isch&q=Bombo+Quarry+Kiama+NSW)                                      | 1   | Sunset                                          | ✅ Must-go                             | **Sunset priority.** Basalt columns + ocean + setting sun = the best landscape shot of Day 1. Arrive 30 min before sunset to scout                                                                      |
-| 11  | [Werri Beach](https://www.google.com/search?tbm=isch&q=Werri+Beach+Gerringong+NSW)                                   | 2   | Morning                                         | ✅ Must-go                             | **Morning light priority.** Sun behind you illuminates hills + golden sand perfectly. The South Coast postcard shot                                                                                     |
-| 12  | [Seven Mile Beach](https://www.google.com/search?tbm=isch&q=Seven+Mile+Beach+NSW)                                    | 2   | Mid-morning                                     | ⏭️ Can skip                            | Long empty beach — beautiful but redundant after Werri. Pull over for 5 min if the light is special                                                                                                     |
-| 13  | [Callala Beach](https://www.google.com/search?tbm=isch&q=Callala+Beach+Jervis+Bay)                                   | 2   | Mid-morning                                     | ✅ Must-go                             | Hyams-quality white sand, 90% fewer people, south-facing = no glare. Kangaroos on dunes. Quiet                                                                                                          |
-| 14  | [Huskisson](https://www.google.com/search?tbm=isch&q=Huskisson+Jervis+Bay+NSW)                                       | 2   | Lunch                                           | ⚡ Go if time                          | Lunch stop only, not a photo destination. Good fish & chips break before Hyams                                                                                                                          |
-| 15  | [Hyams Beach](https://www.google.com/search?tbm=isch&q=Hyams+Beach+Jervis+Bay+NSW)                                   | 2   | Midday                                          | ✅ Must-go                             | **Midday-critical.** High overhead sun = turquoise water glows Caribbean-style. Arrive before 10am or the 450-car limit may block access                                                                |
-| 16  | [Murrays Beach (Booderee NP)](https://www.google.com/search?tbm=isch&q=Murrays+Beach+Jervis+Bay)                     | 2   | Late afternoon                                  | ✅ Must-go                             | The quietest beach in the bay. Mirror-calm water, Bowen Island in frame. **$13 park entry.** Best afternoon stop                                                                                        |
-| 17  | [Cave Beach (Booderee NP)](https://www.google.com/search?tbm=isch&q=Cave+Beach+Booderee+NSW)                         | 2   | Afternoon • 🌊 **Needs low tide**               | ⚡ Go if time                          | Sea caves only accessible at low tide. Check tide chart — if it doesn't align, skip                                                                                                                     |
-| 18  | [Green Patch (Booderee NP)](https://www.google.com/search?tbm=isch&q=Green+Patch+Booderee+NSW)                       | 2   | Late afternoon                                  | ⏭️ Can skip                            | Kangaroos + beach combo but busier than Murrays. Same park, similar light, less payoff                                                                                                                  |
-| 19  | [Point Perpendicular Lighthouse](https://www.google.com/search?tbm=isch&q=Point+Perpendicular+Lighthouse+Jervis+Bay) | 2   | Late afternoon                                  | ✅ Must-go                             | **Late-light priority.** 90m cliffs, lighthouse, whales breaching below. Check weapons range access before driving out                                                                                  |
-| 20  | [Honeymoon Bay](https://www.google.com/search?tbm=isch&q=Honeymoon+Bay+Jervis+Bay+NSW)                               | 2   | Anytime                                         | ⏭️ Can skip                            | 30-min detour on unsealed road into weapons range — often closed. Only go if Point Perpendicular is already open and you have time                                                                      |
-| ☕  | [Berry](https://www.google.com/search?tbm=isch&q=Berry+NSW+town)                                                     | 2   | Return drive                                    | ⚡ Go if time                          | Heritage town on the way home, great coffee + donuts. 15-min stop, zero detour                                                                                                                          |
+| 1   | [Kellys Falls Track](https://www.google.com/search?tbm=isch&q=Kellys+Falls+NSW)                                                     | 1   | Morning (flow best after rain)                 | ⚡ Go if time                            | Cascading falls + plunge pool in a rainforest gully. Free entry (Garawarra SCA). ~20-min detour, short walk                                                                                              |
+| 2   | [Bald Hill Lookout](https://www.google.com/search?tbm=isch&q=Bald+Hill+Lookout+Stanwell+Tops)                                        | 1   | Morning                                         | ⚡ Go if time                            | Classic panorama, zero detour, 5-min stop — do it, but don't linger                                                                                                                                     |
+| 3   | [Sea Cliff Bridge](https://www.google.com/search?tbm=isch&q=Sea+Cliff+Bridge+NSW)                                                    | 1   | Morning                                         | ✅ Must-go                             | **Iconic.** Morning light on the eastern cliffs. Walk halfway out for the curve shot. Irreplaceable                                                                                                     |
+| 4   | [Thirroul Beach](https://www.google.com/search?tbm=isch&q=Thirroul+Beach+NSW)                                                        | 1   | Morning                                         | ⏭️ Can skip                            | Pleasant beach town but nothing unique photographically. Coffee and go                                                                                                                                  |
+| 5   | [Port Kembla Lookout (Hill 60)](https://www.google.com/search?tbm=isch&q=Hill+60+Lookout+Port+Kembla)                                 | 1   | Morning–early afternoon (east-facing)           | ⚡ Go if time                            | WW2 gun emplacements + 360° coastal panorama over the port & ocean. Quick, unique stop                                                                                                                  |
+| 6   | [Bushrangers Bay (Bass Point)](https://www.google.com/search?tbm=isch&q=Bushrangers+Bay+Bass+Point+NSW)                              | 1   | 🌊 Low tide ideal (±2 h) — doesn't align this trip | ⚡ Go if time                            | Turquoise rock pools in a secluded aquatic-reserve bay. Quick 20–30 min stop (pools still pop at mid-tide)                                                                                               |
+| 7   | [Killalea Beach — The Farm](https://www.google.com/search?tbm=isch&q=Killalea+Beach+The+Farm+NSW)                                    | 1   | Midday (green headlands); 🌊 low tide for south rock pools | ⚡ Go if time                            | National Surfing Reserve. Green headlands over the beach; hidden "Dream Pool" at the southern end (steep scramble)                                                                                        |
+| 8   | [Minnamurra / Mystics Beach](https://www.google.com/search?tbm=isch&q=Mystics+Beach+Minnamurra+NSW)                                  | 1   | Morning ideal; ~2 pm on this route              | ⚡ Go if time                            | Quiet rainforest-to-beach composition with Stack Island. Different from everything else on the trip                                                                                                     |
+| 9   | [Kiama Blowhole](https://www.google.com/search?tbm=isch&q=Kiama+Blowhole+NSW)                                                        | 1   | ~2 hrs before the ~1:30–2 pm high • 🌊 Needs high tide + E/SE swell | ⏭️ Can skip                            | Hyped tourist draw. Only performs near high tide + swell; flat seas = nothing. Neap week + flat swell → skip it and stay longer at Cathedral Rocks                                                          |
+| 10  | [Cathedral Rocks at Jones Beach](https://www.google.com/search?tbm=isch&q=Cathedral+Rocks+Kiama+NSW)                                 | 1   | Golden hour • 🌊 Falling tide → ~7:30–8 pm low (partial platform) | ✅ Must-go — **top priority of Day 1** | **The Kiama money shot.** Basalt pillars against sunset sky from the rock platform. Arrive ~3:40 pm; platform most exposed ~4:30–5 pm. Cross-reference tide chart before leaving home                       |
+| 11  | [Bombo Quarry](https://www.google.com/search?tbm=isch&q=Bombo+Quarry+Kiama+NSW)                                                      | 1   | Sunset (5:39 pm)                                | ✅ Must-go                             | **Sunset priority.** Basalt columns + ocean + setting sun = the best landscape shot of Day 1. 5 min from Cathedral Rocks                                                                                  |
+| 12  | [Werri Beach](https://www.google.com/search?tbm=isch&q=Werri+Beach+Gerringong+NSW)                                                   | 2   | Morning                                         | ✅ Must-go                             | **Morning light priority.** Sun behind you illuminates hills + golden sand perfectly. The South Coast postcard shot                                                                                     |
+| 13  | [Seven Mile Beach](https://www.google.com/search?tbm=isch&q=Seven+Mile+Beach+NSW)                                                    | 2   | Mid-morning                                     | ⏭️ Can skip                            | Long empty beach — beautiful but redundant after Werri. Pull over for 5 min if the light is special                                                                                                     |
+| 14  | [Callala Beach](https://www.google.com/search?tbm=isch&q=Callala+Beach+Jervis+Bay)                                                   | 2   | Mid-morning                                     | ✅ Must-go                             | Hyams-quality white sand, 90% fewer people, south-facing = no glare. Kangaroos on dunes. Quiet                                                                                                          |
+| 15  | [Huskisson](https://www.google.com/search?tbm=isch&q=Huskisson+Jervis+Bay+NSW)                                                       | 2   | Lunch                                           | ⚡ Go if time                            | Lunch stop only, not a photo destination. Good fish & chips break before Hyams                                                                                                                          |
+| 16  | [Hyams Beach](https://www.google.com/search?tbm=isch&q=Hyams+Beach+Jervis+Bay+NSW)                                                   | 2   | Midday                                          | ✅ Must-go                             | **Midday-critical.** High overhead sun = turquoise water glows Caribbean-style. Arrive before 10am or the 450-car limit may block access                                                                |
+| 17  | [Murrays Beach (Booderee NP)](https://www.google.com/search?tbm=isch&q=Murrays+Beach+Jervis+Bay)                                     | 2   | Late afternoon                                  | ✅ Must-go                             | The quietest beach in the bay. Mirror-calm water, Bowen Island in frame. **$13 park entry.** Best afternoon stop                                                                                        |
+| 18  | [Cave Beach (Booderee NP)](https://www.google.com/search?tbm=isch&q=Cave+Beach+Booderee+NSW)                                         | 2   | Afternoon • 🌊 **Needs low tide**               | ⚡ Go if time                            | Sea caves only accessible at low tide. Check tide chart — if it doesn't align, skip                                                                                                                     |
+| 19  | [Green Patch (Booderee NP)](https://www.google.com/search?tbm=isch&q=Green+Patch+Booderee+NSW)                                       | 2   | Late afternoon                                  | ⏭️ Can skip                            | Kangaroos + beach combo but busier than Murrays. Same park, similar light, less payoff                                                                                                                  |
+| 20  | [Point Perpendicular Lighthouse](https://www.google.com/search?tbm=isch&q=Point+Perpendicular+Lighthouse+Jervis+Bay)                 | 2   | Late afternoon                                  | ✅ Must-go                             | **Late-light priority.** 90m cliffs, lighthouse, whales breaching below. Check weapons range access before driving out                                                                                  |
+| 21  | [Honeymoon Bay](https://www.google.com/search?tbm=isch&q=Honeymoon+Bay+Jervis+Bay+NSW)                                               | 2   | Anytime                                         | ⏭️ Can skip                            | 30-min detour on unsealed road into weapons range — often closed. Only go if Point Perpendicular is already open and you have time                                                                      |
+| ☕  | [Berry](https://www.google.com/search?tbm=isch&q=Berry+NSW+town)                                                                     | 2   | Return drive                                    | ⚡ Go if time                            | Heritage town on the way home, great coffee + donuts. 15-min stop, zero detour                                                                                                                          |
 
 ### Priority summary
 
 |               | Count | What                                                                                                                                      |
 | ------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅ Must-go    | **9** | Sea Cliff Bridge, Cathedral Rocks, Bombo Quarry, Werri Beach, Callala Beach, Hyams Beach, Murrays Beach, Point Perpendicular, Bald Hill\* |
-| ⚡ Go if time | **6** | Bald Hill\*, Minnamurra, Black Beach, Huskisson, Cave Beach, Berry                                                                        |
-| ⏭️ Can skip   | **6** | Otford, Helensburgh, Thirroul, Kiama Blowhole, Seven Mile Beach, Green Patch, Honeymoon Bay                                               |
+| ✅ Must-go    | **8** | Sea Cliff Bridge, Cathedral Rocks, Bombo Quarry, Werri Beach, Callala Beach, Hyams Beach, Murrays Beach, Point Perpendicular               |
+| ⚡ Go if time | **9** | Kellys Falls, Bald Hill, Port Kembla (Hill 60), Bushrangers Bay, Killalea, Minnamurra, Huskisson, Cave Beach, Berry                        |
+| ⏭️ Can skip   | **5** | Thirroul, Kiama Blowhole, Seven Mile Beach, Green Patch, Honeymoon Bay                                                                     |
 
-_\*Bald Hill is must-go if you count it as a 5-min pull-over; move to go-if-time if you're behind schedule._
-
-> **Key tide check (before you leave home):** Look up Kiama tide times for **Fri 4 Sep 2026**. Cathedral Rocks is the **top priority of Day 1** — it requires LOW tide to access the rock platform, and the golden-hour light makes it the best landscape shot on the coast. Prioritise this over the blowhole (which is hype-dependent on swell direction — often does nothing). Bombo Quarry is the backup sunset spot if the tide doesn't cooperate.
+> **Key tide check (before you leave home):** Confirm the Kiama Harbour tide estimate in [Sun & Tide Planning](#sun-tide-planning). **Fri 4 Sep 2026** is a **neap tide** (first-quarter moon), so expect a small range. Approximate times: low ~7:00–7:30 am • high ~1:30–2:00 pm • evening low ~7:30–8:00 pm. Plan the afternoon around **Cathedral Rocks** (falling tide at golden hour, arrive ~3:40 pm) and visit the **Blowhole near the ~1:30–2:00 pm high** — not last. If the E/SE swell is flat, skip the blowhole and give Bombo + Cathedral Rocks the extra time.
 
 ---
 
 ## Practical Notes
 
 - **Whale season:** September is peak southern right + humpback whale migration. Take binoculars or a long lens — the headlands at Kiama and Point Perpendicular are excellent whale-watching spots. You'll often see spouts and breaches without even trying.
-- **Tides:** Check the tide chart before leaving. Kiama Blowhole < high tide; Cathedral Rocks rock platform < low tide; Cave Beach sea caves < low tide. Plan the route around the tide.
+- **Tides:** Check the Kiama Harbour tide chart before leaving (see [Sun & Tide Planning](#sun-tide-planning)). Kiama Blowhole ≈ high tide + E/SE swell; Cathedral Rocks rock platform ≈ low tide (falling tide through golden hour works); Bushrangers Bay & Killalea rock pools ≈ ±2 h around low tide; Cave Beach sea caves ≈ low tide (Day 2). **Fri 4 Sep is a neap tide** — small range, so expect only partial platform exposure and a less dramatic blowhole.
 - **Fuel:** Fill up at Wollongong or Kiama. Fuel gets sparse south of Nowra.
 - **What to bring:** Sturdy shoes for Bombo Quarry and rock platforms, warm layers (coastal wind in September), sunscreen, water, tripod for long exposures
 - **Phone signal:** Good throughout most of the route. Patchy in Booderee NP and Beecroft Peninsula — download offline maps before leaving
@@ -463,11 +560,12 @@ _Resources used to research this trip — plus blogs and sites worth checking fo
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | NSW National Parks alerts     | [nationalparks.nsw.gov.au](https://www.nationalparks.nsw.gov.au/visit-a-park/parks/royal-national-park/local-alerts)                                                                                                                                                               | Track closures, fire warnings, road access                          |
 | Booderee National Park        | [parksaustralia.gov.au/booderee](https://parksaustralia.gov.au/booderee/)                                                                                                                                                                                                          | Park entry fees, opening hours, Murrays/Cave/Green Patch access     |
-| Kiama tide times              | [tide-forecast.com](https://www.tide-forecast.com/locations/Kiama-New-South-Wales/tides/latest)                                                                                                                                                                                    | Essential — Blowhole & Cathedral Rocks depend on tide               |
+| Kiama tide times              | [WillyWeather — Kiama Harbour](https://tides.willyweather.com.au/nsw/illawarra/kiama-harbour.html)                                                                                                                                                                          | Essential — Blowhole & Cathedral Rocks depend on tide               |
+| Sunrise/sunset — Kiama        | [timeanddate.com](https://www.timeanddate.com/sun/australia/kiama?month=9&year=2026)                                                                                                                                                                                         | Golden-hour & blue-hour windows for Fri 4 Sep                      |
 | Jervis Bay whale watching     | [wildaboutwhales.com.au](https://www.wildaboutwhales.com.au/)                                                                                                                                                                                                                      | NSW whale migration tracker, recent sightings                       |
 | Beecroft Weapons Range access | [defence.gov.au](https://www.defence.gov.au/)                                                                                                                                                                                                                                      | Check if Point Perpendicular & Honeymoon Bay roads are open         |
 | BOM weather — Kiama           | [bom.gov.au/nsw](http://www.bom.gov.au/nsw/forecasts/kiama.shtml)                                                                                                                                                                                                                  | Swell direction, wind, rain for the blowhole and coastal conditions |
-| Google Maps (Day 1 route)     | [🗺️ Day 1](https://www.google.com/maps/dir/Strathfield+NSW/Bald+Hill+Lookout%2C+Stanwell+Tops+NSW/Sea+Cliff+Bridge%2C+NSW/Thirroul+Beach%2C+NSW/Minnamurra+River%2C+NSW/Kiama+Blowhole%2C+NSW/Black+Beach%2C+Kiama+NSW/Cathedral+Rocks%2C+Kiama+NSW/Bombo+Quarry%2C+NSW/Kiama+NSW) | Turn-by-turn navigation with all waypoints                          |
+| Google Maps (Day 1 route)     | [🗺️ Day 1 — final map](https://www.google.com/maps/dir/Strathfield+NSW+2135/The+Local+Pantry,+5%2F16+Waratah+Rd,+Engadine+NSW+2233/Kellys+Falls+Track,+New+South+Wales+2508/Bald+Hill+lookout,+XC72%2BQXX,+Hill+End+NSW+2850/Sea+Cliff+Bridge,+Lawrence+Hargrave+Dr,+Clifton+NSW+2515/Thirroul+Beach,+Thirroul+NSW/Port+Kembla+Lookout+Hill+60,+Military+Rd,+Port+Kembla+NSW+2505/Bushrangers+Bay+Carpark,+Bushrangers+Bay,+Bass+Point+Tourist+Rd,+Shell+Cove+NSW+2529/Killalea+Beach,+Shell+Cove+NSW+2529/Minnamurra+River,+New+South+Wales/Cathedral+Rocks,+36+Cliff+Dr,+Kiama+Downs+NSW+2533/Bombo+Headland+Quarry,+Darien+Ave,+Bombo+NSW+2533/Kiama+Blowhole,+Kiama+NSW+2533/Kiama+Shores,+45%2F51+Collins+St,+Kiama+NSW+2533) | Turn-by-turn navigation with all waypoints (includes breakfast + hotel bookends) |
 | Google Maps (Day 2 route)     | [🗺️ Day 2](https://www.google.com/maps/dir/Kiama+NSW/Werri+Beach%2C+Gerringong+NSW/Callala+Beach%2C+NSW/Huskisson+NSW/Hyams+Beach%2C+NSW/Murrays+Beach%2C+Jervis+Bay+NSW/Point+Perpendicular+Lighthouse%2C+NSW/Berry+NSW/Strathfield+NSW)                                          | Turn-by-turn navigation with all waypoints                          |
 
 ### Photography Blogs & Guides
@@ -489,4 +587,4 @@ All embedded photographs in this document are sourced from [Wikimedia Commons](h
 
 ---
 
-> **Final note:** This is a photography-focused road trip — 10 priority stops anchored around the best light of the day. September gives you clean winter light, migrating whales, and quiet beaches before the summer crowds. Check the tide, charge everything, and enjoy one of the best coastal drives in NSW.
+> **Final note:** This is a photography-focused road trip — 22 stops (11 on Day 1) anchored around the best light of the day. On Day 1 the whole afternoon is driven by the **neap tide** and the **5:39 pm sunset** (see [Sun & Tide Planning](#sun-tide-planning)): Cathedral Rocks at falling-tide golden hour is the money shot, with the Blowhole squeezed in near the midday high. September gives you clean winter light, migrating whales, and quiet beaches before the summer crowds. Check the tide, charge everything, and enjoy one of the best coastal drives in NSW.
